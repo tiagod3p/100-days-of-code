@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Goals: Build projects on python who automatize my tasks, and build a personal ṕortfolio webpage.
+### Goals: Build projects on python who automatize my tasks, and build a personal portfolio webpage.
 
 ### Day 0: May 13, 2020
 
