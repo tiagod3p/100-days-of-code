@@ -14,6 +14,14 @@
 
 **Thoughts:** I still feel difficulty to understand some concepts, but I think this difficulty is because I didn't aply those concepts in a project yet. I'm trying to think in some project, when I get it, I'll learn more easier.
 
+### Day 2: May 15, 2020
+
+**Today's Progress**: Today I set aside the studies about OOP and build a twitter bot who fav and rt automatically! I enjoyed too much doing that for more simple as that is. I used this project also to learn about how to use git and github. I made a [repository](https://github.com/tiagod3p/twitter-bot) for this bot and learn how to push a project to github, do changes, etc.
+
+**Thoughts:** I personally felt difficulty to write the readme.md, because I don't know what was expected to be there, so I do my research and found some things that I put on there, and in finally I think it was good!
+
+
+
 
 
 
