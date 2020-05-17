@@ -20,6 +20,11 @@
 
 **Thoughts:** I personally felt difficulty to write the readme.md, because I don't know what was expected to be there, so I do my research and found some things that I put on there, and in finally I think it was good!
 
+### Day 3 May 16, 2020
+
+**Today's Progress**: Well, finally I got to the concept of inheritance in OOP, and I thought it's pretty simple, this day I studied a little bit less because I have too many things to study on university.
+
+**Thoughts:** I need to study more of OOP, to finish and be able to start with django.
 
 
 
