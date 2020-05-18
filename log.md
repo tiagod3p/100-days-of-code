@@ -26,6 +26,12 @@
 
 **Thoughts:** I need to study more of OOP, to finish and be able to start with django.
 
+### Day 4 May 17, 2020
+
+**Today's Progress**: Multiple inheritance messed with my head! I studied about 2 hours of that to understand,  lol. Now I wanna aply this in a project to really master the knowledge.
+
+**Thoughts:** I think I learn more studying the theory concepts on morning time. I tried to study today after 6PM and wasn't that good. I'll try to study more earlier in the next days.
+
 
 
 
