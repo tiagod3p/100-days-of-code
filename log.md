@@ -32,6 +32,11 @@
 
 **Thoughts:** I think I learn more studying the theory concepts on morning time. I tried to study today after 6PM and wasn't that good. I'll try to study more earlier in the next days.
 
+### Day 5 May 18, 2020
+
+**Today's Progress**: Today I learned about abstraction classes and abstraction methods in python. I made a small project who consists in create a parent class who simulates a Bank Account, and child classes who simulates the multiple kinds of Bank Account, I used the method withdraw cash as abstraction, and I could learn very much.
+
+**Thoughts:** I'm really enjoying the Challenge, and it's teaching me so much about become a self-taught. I felt multiple difficulties on the day, but I'm not give up, I'll keep with the focus! 
 
 
 
