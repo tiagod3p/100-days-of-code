@@ -38,6 +38,12 @@
 
 **Thoughts:** I'm really enjoying the Challenge, and it's teaching me so much about become a self-taught. I felt multiple difficulties on the day, but I'm not give up, I'll keep with the focus! 
 
+### Day 6 May 19, 2020
+
+**Today's Progress**: I ended all the basics of OOP and I explored A Guide to Python's Magic Methods to know and understand some of these. I also started a project of a Bank Account like yesterday but more complex. In this new project I pretend to implement all of the topics of OOP that I studied, like Polymorphism, Abstraction, Inheritance, Encapsulation, etc.
+
+**Thoughts:** Finally I got the first week of the challenge! I'm very happy doing this and I know is very early, but I already feel better than I was.
+
 
 
 
