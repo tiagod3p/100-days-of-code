@@ -44,6 +44,11 @@
 
 **Thoughts:** Finally I got the first week of the challenge! I'm very happy doing this and I know is very early, but I already feel better than I was.
 
+### Day 7 May 20, 2020
+
+**Today's Progress**: I finished the project of the Bank Account that I started yesterday, I could apply all the concepts that I defined. I'm very happy for be capable of it. Thanks stackoverflow 😂 
+
+**Thoughts:** I'm very ansious to start with Django and building real web apps, but I know that I need to understand the concepts well, so I'll keep being patient and in the right time I will start learn Django.
 
 
 
