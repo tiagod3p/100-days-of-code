@@ -50,5 +50,10 @@
 
 **Thoughts:** I'm very ansious to start with Django and building real web apps, but I know that I need to understand the concepts well, so I'll keep being patient and in the right time I will start learn Django.
 
+### Day 8 May 21, 2020
+
+**Today's Progress**: Today I learned about class Enum, that is very interesting. I also learned about JSON and CSV manipulation with Python, and I tested this concepts creating many file, reading and writing in them.
+
+**Thoughts:** I realized that using JSON and CSV files is very useful, and I know in my career as programmer I'll use those files to do many things, so today was a very good day!
 
 
