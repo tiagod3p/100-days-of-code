@@ -56,4 +56,10 @@
 
 **Thoughts:** I realized that using JSON and CSV files is very useful, and I know in my career as programmer I'll use those files to do many things, so today was a very good day!
 
+### Day 9 May 22, 2020
+
+**Today's Progress**: Today was a day full of problems😂. I learned about sending emails automatically, webscraping and selenium. To get install the chromedriver to use with brave was very hard, the binnary path wasn't working! I had to install Chrome to work. But even the bugs has some to teach, and I'm grateful for today and all the knowleadge that I got.
+
+**Thoughts:**  I need to focus more on Selenium and Webscraping because I'm very excited to do some python scripts with them.
+
 
