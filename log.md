@@ -68,3 +68,10 @@
 **Today's Progress**: Today was the best day of the challenge for me! I built a Python bot who automates that log and I only need to write today's progress and my thoughts. To build the bot I used Selenium. All code is available on [repository](https://github.com/tiagod3p/100-days-of-code-log-bot)
 
 **Thoughts**: I love Selenium!!! It can do amazing bots. I'll certainly do more automating bots with Selenium.
+
+
+### Day 11 May 24, 2020
+
+**Today's Progress**: Today I started to learn database concepts, I'm using sqlite3 for Python to do that. I learned some basics like CREATE, INSERT, SELECT, UPDATE, etc.
+
+**Thoughts**: I need to study more types of database, sometimes I felt really confused about what I should use.
