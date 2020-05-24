@@ -62,4 +62,8 @@
 
 **Thoughts:**  I need to focus more on Selenium and Webscraping because I'm very excited to do some python scripts with them.
 
+### Day 10 May 23, 2020
 
+**Today's Progress**: Today was the best day of the challenge for me! I built a Python bot who automates that log and I only need to write today's progress and my thoughts. To build the bot I used Selenium. All code is available on [repository](https://github.com/tiagod3p/100-days-of-code-log-bot)
+
+**Thoughts:**: I love Selenium!!! It can do amazing bots. I'll certainly do more automating bots with Selenium.
