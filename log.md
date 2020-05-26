@@ -82,3 +82,10 @@
 **Today's Progress**: Today I decided to focus 100% in understand database concepts and I made my only CRUD on Python, and I still don't know nothing lol, I need to study even more, but I know that's the way to learn and improve my skills.
 
 **Thoughts**: Tomorrow I'll start with Django, and while I learn Django, I learn more about databases. I think that using Django and doing some real projects, I'll use all of the concepts I've been studying the past days even more.
+
+
+### Day 13 May 26, 2020
+
+**Today's Progress**: I finally started with Django. Today I learned about how to do my first app and how Django works basically.
+
+**Thoughts**: Django is really awesome, I want to practice more and more. I know that I have to study some HTML+CSS+JS concepts also.
