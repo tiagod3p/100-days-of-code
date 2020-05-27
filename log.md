@@ -89,3 +89,10 @@
 **Today's Progress**: I finally started with Django. Today I learned about how to do my first app and how Django works basically.
 
 **Thoughts**: Django is really awesome, I want to practice more and more. I know that I have to study some HTML+CSS+JS concepts also.
+
+
+### Day 14 May 27, 2020
+
+**Today's Progress**: Today I still focused on learn Django basics. Now I know how to handle with static files, how to build my templates, etc. I know it's still little but I'll keep studying and improving my knowledge.
+
+**Thoughts**: I'm still thinking about how to build my personal projects in backend without know frontend very well.
