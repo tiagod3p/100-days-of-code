@@ -96,3 +96,10 @@
 **Today's Progress**: Today I still focused on learn Django basics. Now I know how to handle with static files, how to build my templates, etc. I know it's still little but I'll keep studying and improving my knowledge.
 
 **Thoughts**: I'm still thinking about how to build my personal projects in backend without know frontend very well.
+
+
+### Day 15 May 28, 2020
+
+**Today's Progress**: Today I stopped my learnings of django to made a python automation bot who sends me an email with my grades of college without me having to update the university site.
+
+**Thoughts**: Doing python bots I have so much fun, it's the best way to learn.
