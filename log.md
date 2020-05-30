@@ -110,3 +110,10 @@
 **Today's Progress**: Heyy!!! Today I practiced Django by building a contact list integrated with database. In the next days I pretend to improve this project and learn more Django.
 
 **Thoughts**: I really enjoyed the admin system that django provides. I think it's very useful for real projects.
+
+
+### Day 17 May 30, 2020
+
+**Today's Progress**: Today I was very busy with the college stuff, so I only made some new features for my contact book project like: by clicking in one contact be redirectioned to other page where you'll have more informations about the contact. I know it's not that cool, but for a begginer I believe it's okay, I intend to be better every day.
+
+**Thoughts**: I think some stuff with Django ends up being different from using pure python. I need to familiarize myself with this.
