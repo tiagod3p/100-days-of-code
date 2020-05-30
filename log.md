@@ -103,3 +103,10 @@
 **Today's Progress**: Today I stopped my learnings of django to made a python automation bot who sends me an email with my grades of college without me having to update the university site.
 
 **Thoughts**: Doing python bots I have so much fun, it's the best way to learn.
+
+
+### Day 16 May 29, 2020
+
+**Today's Progress**: Heyy!!! Today I practiced Django by building a contact list integrated with database. In the next days I pretend to improve this project and learn more Django.
+
+**Thoughts**: I really enjoyed the admin system that django provides. I think it's very useful for real projects.
