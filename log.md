@@ -124,3 +124,10 @@
 **Today's Progress**: Today I learned how to deal with errors and turn them into error 404 on django. I couldn't study too much because the college exams are comming.
 
 **Thoughts**: Is better to study a little every day than a lot just one day!
+
+
+### Day 19 June 01, 2020
+
+**Today's Progress**: Today I started to use conditionals on my Django project and learned how to do pagination.
+
+**Thoughts**: I need to train how to do paginations more, and try to use other functions like previous page, next page, only 5 pages range, etc.
