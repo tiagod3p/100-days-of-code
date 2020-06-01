@@ -117,3 +117,10 @@
 **Today's Progress**: Today I was very busy with the college stuff, so I only made some new features for my contact book project like: by clicking in one contact be redirectioned to other page where you'll have more informations about the contact. I know it's not that cool, but for a begginer I believe it's okay, I intend to be better every day.
 
 **Thoughts**: I think some stuff with Django ends up being different from using pure python. I need to familiarize myself with this.
+
+
+### Day 18 May 31, 2020
+
+**Today's Progress**: Today I learned how to deal with errors and turn them into error 404 on django. I couldn't study too much because the college exams are comming.
+
+**Thoughts**: Is better to study a little every day than a lot just one day!
