@@ -131,3 +131,10 @@
 **Today's Progress**: Today I started to use conditionals on my Django project and learned how to do pagination.
 
 **Thoughts**: I need to train how to do paginations more, and try to use other functions like previous page, next page, only 5 pages range, etc.
+
+
+### Day 20 June 02, 2020
+
+**Today's Progress**: Today I started to learn how to train my coding and logic skills on hackerrank.
+
+**Thoughts**: Hackerrank is a pretty cool platform, and I plan to use it everyday to improve my logic skills.
