@@ -138,3 +138,10 @@
 **Today's Progress**: Today I started to learn how to train my coding and logic skills on hackerrank.
 
 **Thoughts**: Hackerrank is a pretty cool platform, and I plan to use it everyday to improve my logic skills.
+
+
+### Day 21 June 03, 2020
+
+**Today's Progress**: Today I learned how to implement a search field on my django project. It was very difficult but I did it!!! In the end of the day I concluded my studies by doing some hackerrank logic exercises.
+
+**Thoughts**: By training my logic on hackerrank I realized that I'm learning how to code more efficiently.
