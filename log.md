@@ -145,3 +145,10 @@
 **Today's Progress**: Today I learned how to implement a search field on my django project. It was very difficult but I did it!!! In the end of the day I concluded my studies by doing some hackerrank logic exercises.
 
 **Thoughts**: By training my logic on hackerrank I realized that I'm learning how to code more efficiently.
+
+
+### Day 22 June 04, 2020
+
+**Today's Progress**: What a busy day! Today I did a college exam about general chemistry and learned how to use images integrated with database on django.
+
+**Thoughts**: I'm very proud of myself, of my determination. I studied programming even in a busy day with college exam.
