@@ -152,3 +152,10 @@
 **Today's Progress**: What a busy day! Today I did a college exam about general chemistry and learned how to use images integrated with database on django.
 
 **Thoughts**: I'm very proud of myself, of my determination. I studied programming even in a busy day with college exam.
+
+
+### Day 23 June 05, 2020
+
+**Today's Progress**: Today I learned how to use django messages to alert the users of the website when occurred an error.
+
+**Thoughts**: I think that learn some bootstrap concepts will help me this time to focus even more in backend.
