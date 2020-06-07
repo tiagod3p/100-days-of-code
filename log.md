@@ -159,3 +159,10 @@
 **Today's Progress**: Today I learned how to use django messages to alert the users of the website when occurred an error.
 
 **Thoughts**: I think that learn some bootstrap concepts will help me this time to focus even more in backend.
+
+
+### Day 24 June 06, 2020
+
+**Today's Progress**: Today I spent almost 4 hours studying how to implement a login system on my django project. I didn't finish yet 'cause I wanna put some other features.
+
+**Thoughts**: The alert messages that django provides to use is very useful to show error messages. I'm learning so much these past days.
