@@ -172,4 +172,11 @@
 
 **Today's Progress**: Today I created two repositories on github. One for my [contact list](https://github.com/tiagod3p/contact-list) project with Django and one for my [new project](https://github.com/tiagod3p/math-algorithms) that I started today using numpy, scipy and matplotlib to create math algorithms.
 
-**Thoughts**: I'm enjoying so much learn new things every day, Python is a incredible language.
+**Thoughts**: I'm enjoying so much learn new things every day, Python is an incredible language.
+
+
+### Day 26 June 08, 2020
+
+**Today's Progress**: Today I added some new features to my repository of math algorithms.
+
+**Thoughts**: It's very nice to use the libraries of Python. Numpy, sympy, scipy and matplotlib makes easy to do the algorithms.
