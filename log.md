@@ -166,3 +166,10 @@
 **Today's Progress**: Today I spent almost 4 hours studying how to implement a login system on my django project. I didn't finish yet 'cause I wanna put some other features.
 
 **Thoughts**: The alert messages that django provides to use is very useful to show error messages. I'm learning so much these past days.
+
+
+### Day 25 June 07, 2020
+
+**Today's Progress**: Today I created two repositories on github. One for my [contact list](https://github.com/tiagod3p/contact-list) project with Django and one for my [new project](https://github.com/tiagod3p/math-algorithms) that I started today using numpy, scipy and matplotlib to create math algorithms.
+
+**Thoughts**: I'm enjoying so much learn new things every day, Python is a incredible language.
