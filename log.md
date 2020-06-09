@@ -180,3 +180,10 @@
 **Today's Progress**: Today I added some new features to my repository of math algorithms.
 
 **Thoughts**: It's very nice to use the libraries of Python. Numpy, sympy, scipy and matplotlib makes easy to do the algorithms.
+
+
+### Day 27 June 09, 2020
+
+**Today's Progress**: Today I made an algorithm to solve optimization problems using lagrange multiplier. It was very difficult because I had to read very deeply the documentation of scipy.optimize to understand how the library works.
+
+**Thoughts**: Read the documentation of the libraries that I'm using to this project is very important, and helps me to be a better programmer.
