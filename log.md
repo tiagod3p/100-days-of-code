@@ -187,3 +187,10 @@
 **Today's Progress**: Today I made an algorithm to solve optimization problems using lagrange multiplier. It was very difficult because I had to read very deeply the documentation of scipy.optimize to understand how the library works.
 
 **Thoughts**: Read the documentation of the libraries that I'm using to this project is very important, and helps me to be a better programmer.
+
+
+### Day 28 June 10, 2020
+
+**Today's Progress**: Today was a hard day, I got stuck in an exercise of hackerrank and I didn't stop until I got it. When I finally complete the exercise, I was already unwilling to keep doing the problems.
+
+**Thoughts**: I need to know when to stop some exercise to get some fresh air and restart. Today I wasn't very productive because I spent too much time in only one problem.
