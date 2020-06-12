@@ -194,3 +194,11 @@
 **Today's Progress**: Today was a hard day, I got stuck in an exercise of hackerrank and I didn't stop until I got it. When I finally complete the exercise, I was already unwilling to keep doing the problems.
 
 **Thoughts**: I need to know when to stop some exercise to get some fresh air and restart. Today I wasn't very productive because I spent too much time in only one problem.
+
+
+### Day 29 June 11, 2020
+
+**Today's Progress**: Today I started to build a virtual assistant using the library pyTelegramBotAPI. To start, I implemented a 
+functionality who gives the weather forecast of any city.
+
+**Thoughts**: Build a virtual assistant is very cool, and the library of telegram makes much more simple to do that. I intend to put more functionalities and then, the bot will be more useful.
