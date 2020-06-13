@@ -202,3 +202,10 @@
 functionality who gives the weather forecast of any city.
 
 **Thoughts**: Build a virtual assistant is very cool, and the library of telegram makes much more simple to do that. I intend to put more functionalities and then, the bot will be more useful.
+
+
+### Day 30 June 12, 2020
+
+**Today's Progress**: Today I only did some hackerrank exercises because I spent the whole day focused on my last college exam.
+
+**Thoughts**: Even in busy days I'm still learning code, and this is my biggest happiness. I'll never stop until I reach my goals.
