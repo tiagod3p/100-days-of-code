@@ -209,3 +209,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I only did some hackerrank exercises because I spent the whole day focused on my last college exam.
 
 **Thoughts**: Even in busy days I'm still learning code, and this is my biggest happiness. I'll never stop until I reach my goals.
+
+
+### Day 31 June 13, 2020
+
+**Today's Progress**: Today I kept working on my virtual assistant with Python, I implemented the functionality of Covid-19 alert system. By doing this, I used two new libraries, unidecode and googletrans to handle the api data and user requests.
+
+**Thoughts**: I'm learning so much doing new little projects, they  make me do research and find the solutions for my problems, and doing this I study much more than with tutorials.
