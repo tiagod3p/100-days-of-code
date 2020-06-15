@@ -223,3 +223,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I added three new functionalities to my virtual assistant: Alert of matches of soccer day by day, currency quotes and variations and alert of trending news of the day.
 
 **Thoughts**: This project is the most cool that I did until now. I'm learning so much libraries, functionalities and having fun.
+
+
+### Day 33 June 15, 2020
+
+**Today's Progress**: Today I put my virtual assistant builded with Python at github and started to learn javascript to improve my frontend skills.
+
+**Thoughts**: Javascript is pretty cool, I didn't think it's very different of python, so it was easy to learn the basics.
