@@ -216,3 +216,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I kept working on my virtual assistant with Python, I implemented the functionality of Covid-19 alert system. By doing this, I used two new libraries, unidecode and googletrans to handle the api data and user requests.
 
 **Thoughts**: I'm learning so much doing new little projects, they  make me do research and find the solutions for my problems, and doing this I study much more than with tutorials.
+
+
+### Day 32 June 14, 2020
+
+**Today's Progress**: Today I added three new functionalities to my virtual assistant: Alert of matches of soccer day by day, currency quotes and variations and alert of trending news of the day.
+
+**Thoughts**: This project is the most cool that I did until now. I'm learning so much libraries, functionalities and having fun.
