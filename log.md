@@ -230,3 +230,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I put my virtual assistant builded with Python at github and started to learn javascript to improve my frontend skills.
 
 **Thoughts**: Javascript is pretty cool, I didn't think it's very different of python, so it was easy to learn the basics.
+
+
+### Day 34 June 16, 2020
+
+**Today's Progress**: Today I kept studying javascript, html and css, and start to build my personal portfolio. By doing this I'm learning many things like, manipulate the DOM, css tricks, etc.
+
+**Thoughts**: I'm really thinking about study to be a full stack developer, I'm enjoying so much learn about frontend stuff, and when I was learning backend I felt the same happiness.
