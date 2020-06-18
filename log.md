@@ -237,3 +237,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I kept studying javascript, html and css, and start to build my personal portfolio. By doing this I'm learning many things like, manipulate the DOM, css tricks, etc.
 
 **Thoughts**: I'm really thinking about study to be a full stack developer, I'm enjoying so much learn about frontend stuff, and when I was learning backend I felt the same happiness.
+
+
+### Day 35 June 17, 2020
+
+**Today's Progress**: Today I kept studying javascript and frontend development. I made some improvements to the site I'm doing, and it's being nice. I only had very difficult in choose good colors, in have a better design, etc.
+
+**Thoughts**: I like frontend but I really felt that I'm not too good on this, it's hard for me to remember the html tags, or what command do something in css. I stay much more stuck in design problem than in a js problem
