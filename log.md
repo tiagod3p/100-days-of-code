@@ -244,3 +244,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I kept studying javascript and frontend development. I made some improvements to the site I'm doing, and it's being nice. I only had very difficult in choose good colors, in have a better design, etc.
 
 **Thoughts**: I like frontend but I really felt that I'm not too good on this, it's hard for me to remember the html tags, or what command do something in css. I stay much more stuck in design problem than in a js problem
+
+
+### Day 36 June 18, 2020
+
+**Today's Progress**: Today I started with node and express to use js as a server. I learned how to start the server and how to use nunjucks.
+
+**Thoughts**: It was easy to learn the basics of node, express, and use the templates because it looks similar to Django.
