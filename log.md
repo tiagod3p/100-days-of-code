@@ -251,3 +251,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I started with node and express to use js as a server. I learned how to start the server and how to use nunjucks.
 
 **Thoughts**: It was easy to learn the basics of node, express, and use the templates because it looks similar to Django.
+
+
+### Day 37 June 19, 2020
+
+**Today's Progress**: Today I studied Python. I built an Instagram Bot who unfollow people that dont follow me back. Tomorrow I'll go back to study Javascript and web development.
+
+**Thoughts**: Build the instagram bot was very difficult, the code isn't very good. I'll improve this later and put in a github repository.
