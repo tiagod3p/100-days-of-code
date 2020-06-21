@@ -258,3 +258,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I studied Python. I built an Instagram Bot who unfollow people that dont follow me back. Tomorrow I'll go back to study Javascript and web development.
 
 **Thoughts**: Build the instagram bot was very difficult, the code isn't very good. I'll improve this later and put in a github repository.
+
+
+### Day 38 June 20, 2020
+
+**Today's Progress**: Today I got better my instagram bot in Python and kept studying js with node/express. I learned several things like: how to use const variables in frontend, how to use query strings, etc.
+
+**Thoughts**: To improve my study I'm taking notes about every step I made to build my server js with node/express. By doing this I intend to redo everything and try to remember the maximum I can.
