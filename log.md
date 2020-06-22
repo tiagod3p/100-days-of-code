@@ -265,3 +265,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I got better my instagram bot in Python and kept studying js with node/express. I learned several things like: how to use const variables in frontend, how to use query strings, etc.
 
 **Thoughts**: To improve my study I'm taking notes about every step I made to build my server js with node/express. By doing this I intend to redo everything and try to remember the maximum I can.
+
+
+### Day 39 June 21, 2020
+
+**Today's Progress**: Today I finished my website of a  portfolio made with node, express, html+css+js containing my electronics projects. I put this project in a [repository](https://github.com/tiagod3p/electronics-portfolio).
+
+**Thoughts**: Web development with Javascript is pretty cool, the idea of build frontend and backend with the same programming language is awesome. I am really tempted to study javascript to be my main language.
