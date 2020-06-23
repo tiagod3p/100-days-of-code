@@ -272,3 +272,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I finished my website of a  portfolio made with node, express, html+css+js containing my electronics projects. I put this project in a [repository](https://github.com/tiagod3p/electronics-portfolio).
 
 **Thoughts**: Web development with Javascript is pretty cool, the idea of build frontend and backend with the same programming language is awesome. I am really tempted to study javascript to be my main language.
+
+
+### Day 40 June 22, 2020
+
+**Today's Progress**: Today was a very busy day at work so I only had time to solve some bugs on my instagram bot with Python.
+
+**Thoughts**: I'm studying some stuffs about the software that we are using at work, but I'm still trying to keep the studies about python, javascript and web development.
