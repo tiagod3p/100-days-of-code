@@ -279,3 +279,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today was a very busy day at work so I only had time to solve some bugs on my instagram bot with Python.
 
 **Thoughts**: I'm studying some stuffs about the software that we are using at work, but I'm still trying to keep the studies about python, javascript and web development.
+
+
+### Day 41 June 23, 2020
+
+**Today's Progress**: Today I fixed a bug in my instagram bot, it is almost 100% done. I also started to read the book The Passionate Programmer and I'm already in love with this book.
+
+**Thoughts**: Read programming books is a practice that I have to do more. It's very good to improve my skills and learn with high skilled developers.
