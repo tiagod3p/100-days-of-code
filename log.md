@@ -286,3 +286,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I fixed a bug in my instagram bot, it is almost 100% done. I also started to read the book The Passionate Programmer and I'm already in love with this book.
 
 **Thoughts**: Read programming books is a practice that I have to do more. It's very good to improve my skills and learn with high skilled developers.
+
+
+### Day 42 June 24, 2020
+
+**Today's Progress**: Today I implemented the Paypal payment method in the ecommerce that I work. I had to use some javascript functions and read the paypal api documentation. I learned alot.
+
+**Thoughts**: The best part of working with I.T. is the possibility to learn while works.
