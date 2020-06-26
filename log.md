@@ -293,3 +293,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I implemented the Paypal payment method in the ecommerce that I work. I had to use some javascript functions and read the paypal api documentation. I learned alot.
 
 **Thoughts**: The best part of working with I.T. is the possibility to learn while works.
+
+
+### Day 43 June 25, 2020
+
+**Today's Progress**: In my next little project I'll build a system for a school. In this system will be possible to register students, professors, and others employees. Today I started with the html and css.
+
+**Thoughts**: I'll keep doing projects out of work to keep me updated.
