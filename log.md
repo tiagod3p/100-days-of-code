@@ -300,3 +300,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: In my next little project I'll build a system for a school. In this system will be possible to register students, professors, and others employees. Today I started with the html and css.
 
 **Thoughts**: I'll keep doing projects out of work to keep me updated.
+
+
+### Day 44 June 26, 2020
+
+**Today's Progress**: Today I scraped some data to the company that I work. I used python and the libs requests and bs4. My next step is learn how to transform this data in csv and use in excel, libreoffice, etc.
+
+**Thoughts**: This weekend I decided to dive right in javascript. I'll study until I feel exhausted.
