@@ -307,3 +307,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I scraped some data to the company that I work. I used python and the libs requests and bs4. My next step is learn how to transform this data in csv and use in excel, libreoffice, etc.
 
 **Thoughts**: This weekend I decided to dive right in javascript. I'll study until I feel exhausted.
+
+
+### Day 45 June 27, 2020
+
+**Today's Progress**: Today I kept working on my project with javascript full-stack. I learned some of css like animations, box-shadow, pseudo-elements, etc. I also discovered the package browser-sync for nodejs.
+
+**Thoughts**: I'm learning so much things about frontend development. It's very good what I can do, but design skills are not my strength.
