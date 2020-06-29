@@ -314,3 +314,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I kept working on my project with javascript full-stack. I learned some of css like animations, box-shadow, pseudo-elements, etc. I also discovered the package browser-sync for nodejs.
 
 **Thoughts**: I'm learning so much things about frontend development. It's very good what I can do, but design skills are not my strength.
+
+
+### Day 46 June 28, 2020
+
+**Today's Progress**: Today I studied and applied some concepts of forms in html and how to use the post method. 
+
+**Thoughts**: The use of forms that I'm learning in my personal project, in the future I see that it can be very useful on my work.
