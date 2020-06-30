@@ -321,3 +321,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I studied and applied some concepts of forms in html and how to use the post method. 
 
 **Thoughts**: The use of forms that I'm learning in my personal project, in the future I see that it can be very useful on my work.
+
+
+### Day 47 June 29, 2020
+
+**Today's Progress**: Today I put the data that I scrapped for my work in an excel file with the Python library openpyxl. 
+
+**Thoughts**: Openpyxl is very easy to use, and the data formatted in a spreadsheet is much more easier to read and analyze.
