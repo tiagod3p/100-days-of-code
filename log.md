@@ -328,3 +328,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I put the data that I scrapped for my work in an excel file with the Python library openpyxl. 
 
 **Thoughts**: Openpyxl is very easy to use, and the data formatted in a spreadsheet is much more easier to read and analyze.
+
+
+### Day 48 June 30, 2020
+
+**Today's Progress**: Today I treated the data that I scrapped with Python to transform it in a csv file and be easier to import to my google account. I also started a new project for my Virtual Assistant that finds recipes based in the ingredients inputted by the user.
+
+**Thoughts**: Today I felt so unmotivated, I was very tired, but I could persist and study alot. I know these hard days will make me a better professional. I'll never give up of my dream to be a incredible software engineer.
