@@ -335,3 +335,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I treated the data that I scrapped with Python to transform it in a csv file and be easier to import to my google account. I also started a new project for my Virtual Assistant that finds recipes based in the ingredients inputted by the user.
 
 **Thoughts**: Today I felt so unmotivated, I was very tired, but I could persist and study alot. I know these hard days will make me a better professional. I'll never give up of my dream to be a incredible software engineer.
+
+
+### Day 49 July 01, 2020
+
+**Today's Progress**: Today I learned how to use req.body in express to get the inputs of the form. By using fs.writeFile to create a file with the data, I had a problem to redirect my page in the callback function. Tomorrow I'll try to solve this.
+
+**Thoughts**: I had a problem with the callback function to redirect to the index page and I searched for this error and didn't found nothing related. I'm worry if I'm not capable to solve this for myself and be stuck at this problem.
