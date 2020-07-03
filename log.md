@@ -342,3 +342,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I learned how to use req.body in express to get the inputs of the form. By using fs.writeFile to create a file with the data, I had a problem to redirect my page in the callback function. Tomorrow I'll try to solve this.
 
 **Thoughts**: I had a problem with the callback function to redirect to the index page and I searched for this error and didn't found nothing related. I'm worry if I'm not capable to solve this for myself and be stuck at this problem.
+
+
+### Day 50 July 02, 2020
+
+**Today's Progress**: Today I implemented a button of whatsapp in the site of the work. I also studied some of css animations and javascript DOM manipulation.
+
+**Thoughts**: I really want to start reading some javascript books and go deep in the studies of the language.
