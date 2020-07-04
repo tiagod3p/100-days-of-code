@@ -349,3 +349,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I implemented a button of whatsapp in the site of the work. I also studied some of css animations and javascript DOM manipulation.
 
 **Thoughts**: I really want to start reading some javascript books and go deep in the studies of the language.
+
+
+### Day 51 July 03, 2020
+
+**Today's Progress**: Today I just improved the css of the website that I'm working on. I also got stuck to a bug of fs.writeFile with node/express, I don't know what is going on, but I'll keep trying to fix it in the next few days.
+
+**Thoughts**: The ability to try and try and don't give up is my best quality. I'll keep trying and I know that some day I'll can do it.
