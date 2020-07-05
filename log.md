@@ -356,3 +356,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I just improved the css of the website that I'm working on. I also got stuck to a bug of fs.writeFile with node/express, I don't know what is going on, but I'll keep trying to fix it in the next few days.
 
 **Thoughts**: The ability to try and try and don't give up is my best quality. I'll keep trying and I know that some day I'll can do it.
+
+
+### Day 52 July 04, 2020
+
+**Today's Progress**: Today I dedicated myself to solve a bug that I was facing when I write a file with fs.writeFile in node js. I built my whole application in other computer and discovered that the problem isn't the code but my proxy configurations on my main computer. LOL, the problem was so ridiculous. But I'm very happy to be able to solve it.
+
+**Thoughts**: The emotion that I feel when I solve my problems is immeasurable, I felt so happy. Software development is really my thing.
