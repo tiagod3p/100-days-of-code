@@ -363,3 +363,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I dedicated myself to solve a bug that I was facing when I write a file with fs.writeFile in node js. I built my whole application in other computer and discovered that the problem isn't the code but my proxy configurations on my main computer. LOL, the problem was so ridiculous. But I'm very happy to be able to solve it.
 
 **Thoughts**: The emotion that I feel when I solve my problems is immeasurable, I felt so happy. Software development is really my thing.
+
+
+### Day 53 July 05, 2020
+
+**Today's Progress**: Today I learned so much stuffs!!! By doing my project of a school management system, I learned how to use req.query and req.params and the differences between them. I also learned how to manipulate date in JavaScript and learned about spread operators.
+
+**Thoughts**: It was a little bit difficult to learn how to manipulate date in javascript, the timestamp, the getYear function that in my country has to be used as getUTCYear, I had to research alot to learn this little things that make the difference.
