@@ -370,3 +370,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I learned so much stuffs!!! By doing my project of a school management system, I learned how to use req.query and req.params and the differences between them. I also learned how to manipulate date in JavaScript and learned about spread operators.
 
 **Thoughts**: It was a little bit difficult to learn how to manipulate date in javascript, the timestamp, the getYear function that in my country has to be used as getUTCYear, I had to research alot to learn this little things that make the difference.
+
+
+### Day 54 July 06, 2020
+
+**Today's Progress**: Today I improved my knowledge about http request methods. Now I feel that I know well about GET, POST, UPDATE and DELETE. I also learned about .filter() and .find() and when to use each one.
+
+**Thoughts**: I feel that I'm learning so much these past days, I will keep in this rhythm and get better each day. Fullstack with javascript is my goal.
