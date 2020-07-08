@@ -377,3 +377,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I improved my knowledge about http request methods. Now I feel that I know well about GET, POST, UPDATE and DELETE. I also learned about .filter() and .find() and when to use each one.
 
 **Thoughts**: I feel that I'm learning so much these past days, I will keep in this rhythm and get better each day. Fullstack with javascript is my goal.
+
+
+### Day 55 July 07, 2020
+
+**Today's Progress**: Today I didn't have so much time to study so I only improved the semantic of the html of my project, I learned how to use table, thead, tbody, etc.
+
+**Thoughts**: I need a new computer. My actual computer is very slow and I can't be productive as I want to.
