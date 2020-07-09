@@ -384,3 +384,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I didn't have so much time to study so I only improved the semantic of the html of my project, I learned how to use table, thead, tbody, etc.
 
 **Thoughts**: I need a new computer. My actual computer is very slow and I can't be productive as I want to.
+
+
+### Day 56 July 08, 2020
+
+**Today's Progress**: Today I studied more about the DOM in javascript, I learned how to set a class active or not, learned about the function confirm() and how to manipulate events.
+
+**Thoughts**: I like to learn by building projects that forces me to do a lot of research. But I feel that I need to learn some basics after I end the project that I'm building so I won't need to doresearch about everything.
