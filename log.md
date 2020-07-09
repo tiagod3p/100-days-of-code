@@ -390,4 +390,4 @@ functionality who gives the weather forecast of any city.
 
 **Today's Progress**: Today I studied more about the DOM in javascript, I learned how to set a class active or not, learned about the function confirm() and how to manipulate events.
 
-**Thoughts**: I like to learn by building projects that forces me to do a lot of research. But I feel that I need to learn some basics after I end the project that I'm building so I won't need to doresearch about everything.
+**Thoughts**: I like to learn by building projects that forces me to do a lot of research. But I feel that I need to learn some basics after I end the project that I'm building so I won't need to do research about everything.
