@@ -400,7 +400,7 @@ functionality who gives the weather forecast of any city.
 **Thoughts**: In my last django project I used mariadb, now I will try to use postgres, I hope this change don't be so difficult.
 
 
-### Day 59 July 11, 2020
+### Day 58 July 11, 2020
 
 **Today's Progress**: Yesterday was the first day since I started the challenge that I don't studied. It was being a busy day at work, I was really tired. But today I studied a lot about nodeJs architectures and databases. I learned how to config postgresql to use with node, how to do query, etc.
 
