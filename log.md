@@ -412,3 +412,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I kept studying about database, specifically postgresql for express. I learned how to structure the models folder and how to use the callback functions efficiently.
 
 **Thoughts**: I have too much to learn but I'm feeling so much more capable to do my projects now than when I started the challenge. I'll keep coding every day and I'll evolve much more.
+
+
+### Day 60 July 13, 2020
+
+**Today's Progress**: Today I studied how to use LEFT JOIN to join two related tables in Postgresql. I'll studying more about JOIN tomorrow cause I know that has so much more cases to use it.
+
+**Thoughts**: Integrating a web app with database gives me much more confidence to keep my data safe and know that will be much more difficult for someone get the data.
