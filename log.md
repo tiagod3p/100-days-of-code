@@ -419,3 +419,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I studied how to use LEFT JOIN to join two related tables in Postgresql. I'll studying more about JOIN tomorrow cause I know that has so much more cases to use it.
 
 **Thoughts**: Integrating a web app with database gives me much more confidence to keep my data safe and know that will be much more difficult for someone get the data.
+
+
+### Day 61 July 14, 2020
+
+**Today's Progress**: Today I put a simple search field in my website project using WHERE ILIKE OR IN LIKE, sql commands. I also started to build a pagination, but I wasn't able to finish cause I'm facing some problems to build the front-end.
+
+**Thoughts**: SQL makes easy to do so much features, I'll study more about it later cause I wanna build systems each more complex.
