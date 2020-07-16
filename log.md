@@ -426,3 +426,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I put a simple search field in my website project using WHERE ILIKE OR IN LIKE, sql commands. I also started to build a pagination, but I wasn't able to finish cause I'm facing some problems to build the front-end.
 
 **Thoughts**: SQL makes easy to do so much features, I'll study more about it later cause I wanna build systems each more complex.
+
+
+### Day 62 July 15, 2020
+
+**Today's Progress**: Today I finished the pagination of my website! Wow, this was pretty hard. First I learned how to do the logic in javascript to only appear pages close to the selected page. After this, I learned how to show the data in front-end and connect to database.
+
+**Thoughts**: I'll build some little projects of pagination and search field system to fix this knowledge, because it is very connected to database and I don't feel so much confident with SQL.
