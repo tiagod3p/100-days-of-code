@@ -433,3 +433,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I finished the pagination of my website! Wow, this was pretty hard. First I learned how to do the logic in javascript to only appear pages close to the selected page. After this, I learned how to show the data in front-end and connect to database.
 
 **Thoughts**: I'll build some little projects of pagination and search field system to fix this knowledge, because it is very connected to database and I don't feel so much confident with SQL.
+
+
+### Day 63 July 16, 2020
+
+**Today's Progress**: Today I finished the project of a site for school management. I improved the pagination I've put on my site. With Javascript I implemented a function who see what page the user selected and add a class 'active' who changes the styles of selected page button.
+
+**Thoughts**: I'll review the site I built in the next days. I'll remember how I implemented the systems and be proficient in it. Maybe I redo everything and improve some parts to fix the knowledge.
