@@ -440,3 +440,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I finished the project of a site for school management. I improved the pagination I've put on my site. With Javascript I implemented a function who see what page the user selected and add a class 'active' who changes the styles of selected page button.
 
 **Thoughts**: I'll review the site I built in the next days. I'll remember how I implemented the systems and be proficient in it. Maybe I redo everything and improve some parts to fix the knowledge.
+
+
+### Day 64 July 17, 2020
+
+**Today's Progress**: Today I improved my project and fix some bugs. I also created a [repository](https://github.com/tiagod3p/sms) for it, I think this project was the best that I made and who left me more proud. =)
+
+**Thoughts**: Being a programmer and live from coding is my dream. Tomorrow I'll start a new project, I won't stop until I achieve my goals.
