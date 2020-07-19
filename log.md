@@ -454,3 +454,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I started a new project. I'll build an ecommerce website. To start I'm learning how to use dbdiagram to create my database, tables and their relations. I also started to design the web application.
 
 **Thoughts**: I'll build this ecommerce website to learn how to create user logins, dashboard, and maybe try to implement a payment method with javascript full-stack.
+
+
+### Day 66 July 19, 2020
+
+**Today's Progress**: Today I advanced in my new project of an ecommerce. I started to build the form to add a new product to the site. I learned about the vantage of using async await and promises rather than callback functions.
+
+**Thoughts**: Async await let the code very clean. I'm so sad that I didn't learn this before. But now that I know, I'm improving my skills! 
