@@ -447,3 +447,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I improved my project and fix some bugs. I also created a [repository](https://github.com/tiagod3p/sms) for it, I think this project was the best that I made and who left me more proud. =)
 
 **Thoughts**: Being a programmer and live from coding is my dream. Tomorrow I'll start a new project, I won't stop until I achieve my goals.
+
+
+### Day 65 July 18, 2020
+
+**Today's Progress**: Today I started a new project. I'll build an ecommerce website. To start I'm learning how to use dbdiagram to create my database, tables and their relations. I also started to design the web application.
+
+**Thoughts**: I'll build this ecommerce website to learn how to create user logins, dashboard, and maybe try to implement a payment method with javascript full-stack.
