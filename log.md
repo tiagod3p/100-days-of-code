@@ -461,3 +461,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I advanced in my new project of an ecommerce. I started to build the form to add a new product to the site. I learned about the vantage of using async await and promises rather than callback functions.
 
 **Thoughts**: Async await let the code very clean. I'm so sad that I didn't learn this before. But now that I know, I'm improving my skills! 
+
+
+### Day 67 July 20, 2020
+
+**Today's Progress**: Today I learned about arrow functions and how to get and treat files upload in my html with Javascript. The most difficult part is to find a way to remove the files with click. Tomorrow I'll keep trying it!
+
+**Thoughts**: I'm studying too much these days, I really found my passion. Web programming is so good! See things happen is really incredible!
