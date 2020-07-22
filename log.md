@@ -468,3 +468,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I learned about arrow functions and how to get and treat files upload in my html with Javascript. The most difficult part is to find a way to remove the files with click. Tomorrow I'll keep trying it!
 
 **Thoughts**: I'm studying too much these days, I really found my passion. Web programming is so good! See things happen is really incredible!
+
+
+### Day 68 July 21, 2020
+
+**Today's Progress**: Today I learned how to provide to the user a way to remove a file upload in html forms with javascript. I also started to use the middleware multer to use req.files in my backend. Now I can add any product in my project of an ecommerce.
+
+**Thoughts**: Today I got stuck in a problem with the middleware multer. I did an arrow function without return true. So the app didn't work and didn't send any error message. I stayed at least 1 hour to discover where the error was. But in the end, all ocurred well, I'm very happy! This situation taught me about arrow functions and I won't commit this error again.
