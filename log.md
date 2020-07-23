@@ -475,3 +475,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I learned how to provide to the user a way to remove a file upload in html forms with javascript. I also started to use the middleware multer to use req.files in my backend. Now I can add any product in my project of an ecommerce.
 
 **Thoughts**: Today I got stuck in a problem with the middleware multer. I did an arrow function without return true. So the app didn't work and didn't send any error message. I stayed at least 1 hour to discover where the error was. But in the end, all ocurred well, I'm very happy! This situation taught me about arrow functions and I won't commit this error again.
+
+
+### Day 69 July 22, 2020
+
+**Today's Progress**: Today I learned about create procedures in postgresql. I created a trigger to update the timestamp every time the table updates. I also started to build the view page of the product in my ecommerce website.
+
+**Thoughts**: I stayed too much time trying to build a sql function when I should build in my backend. Learn about procedures was cool, but I don't wanna do this anymore hahaha.
