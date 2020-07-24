@@ -482,3 +482,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I learned about create procedures in postgresql. I created a trigger to update the timestamp every time the table updates. I also started to build the view page of the product in my ecommerce website.
 
 **Thoughts**: I stayed too much time trying to build a sql function when I should build in my backend. Learn about procedures was cool, but I don't wanna do this anymore hahaha.
+
+
+### Day 70 July 23, 2020
+
+**Today's Progress**: Today I learned how to structure the home of my website and built the modal overlay when someone click in an image. I also started to build the search field of the site, tomorrow I'll finish it.
+
+**Thoughts**: I learn new things every day, I'm so motivated. Yesterday I spoke with an expert in programming and he gave me valious tips. I know I can do better, I'll be better soon, I just have to code every day in the same rythm.
