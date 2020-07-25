@@ -489,3 +489,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I learned how to structure the home of my website and built the modal overlay when someone click in an image. I also started to build the search field of the site, tomorrow I'll finish it.
 
 **Thoughts**: I learn new things every day, I'm so motivated. Yesterday I spoke with an expert in programming and he gave me valious tips. I know I can do better, I'll be better soon, I just have to code every day in the same rythm.
+
+
+### Day 71 July 24, 2020
+
+**Today's Progress**: Today I built the search page of my site, I also implemented a menu to search for category of products. Tomorrow I intend to build or at least try to build a login system with node.js. I'll start with the register page.
+
+**Thoughts**: I'll start to use notion.so to take notes. By now I'm using evernote but I think notion can improve my notes quality. I learned about zettelkasten and I'll use this method to help me fix my knowledge and to revise in the future.
