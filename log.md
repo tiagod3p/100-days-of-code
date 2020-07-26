@@ -496,3 +496,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I built the search page of my site, I also implemented a menu to search for category of products. Tomorrow I intend to build or at least try to build a login system with node.js. I'll start with the register page.
 
 **Thoughts**: I'll start to use notion.so to take notes. By now I'm using evernote but I think notion can improve my notes quality. I learned about zettelkasten and I'll use this method to help me fix my knowledge and to revise in the future.
+
+
+### Day 72 July 25, 2020
+
+**Today's Progress**: Today was a great day of studies!!! I studied a lot and didn't lose my focus. I implemented a system to register users in my website and learned about sessions on ExpressJs. I used the library express-session and connect-pg-simple to link this session with database. I also learned how to create masks for fields and validate them. Tomorrow I'll keep doing my login system.
+
+**Thoughts**: If all my days of study be like today I'll evolve much more faster and better. I was so focused and high deeply motivated that I only studied without see the time pass.
