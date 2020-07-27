@@ -503,3 +503,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today was a great day of studies!!! I studied a lot and didn't lose my focus. I implemented a system to register users in my website and learned about sessions on ExpressJs. I used the library express-session and connect-pg-simple to link this session with database. I also learned how to create masks for fields and validate them. Tomorrow I'll keep doing my login system.
 
 **Thoughts**: If all my days of study be like today I'll evolve much more faster and better. I was so focused and high deeply motivated that I only studied without see the time pass.
+
+
+### Day 73 July 26, 2020
+
+**Today's Progress**: Today I finished the login page of my website. I solved some bugs of express-session and created some validations for user logged in and logged out. Tomorrow I'll try to make a system of password recovery.
+
+**Thoughts**: Javascript is the best language I ever used. I can do so much things and with high performance. I'll build a lot of projects to be an expert in web development with JS.
