@@ -517,3 +517,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I created a session of password recovery in my project using nodemailer and mailtrap to test. I also learned how to use DELETE CASCADE on postgresql to delete my rows with foreign key on my database.
 
 **Thoughts**: Tomorrow I plan to refactor my code until now. After this I'll continue creating new things.
+
+
+### Day 75 July 28, 2020
+
+**Today's Progress**: Today I started to write the documentation of the things I've been learning this past weeks. I wrote about node.js, single-thread, event loop, async functions, middlewares, etc. I plan to write a lot more about node, express, js and everything else to improve my knowledge retention. I also did some hackerrank exercises to keep practicing my logic.
+
+**Thoughts**: When you start to study deeply nodejs you realize that YOU DON'T KNOW NOTHING. HAHAHAHAHA. That is the true, I was doing my projects and thinking I know too much, but the true is that I dont know nothing yet, and it's wonderful, I think it's incredible that I have to much more things to learn, study and share. This is what I love most in programming, you never stop to learn.
