@@ -510,3 +510,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I finished the login page of my website. I solved some bugs of express-session and created some validations for user logged in and logged out. Tomorrow I'll try to make a system of password recovery.
 
 **Thoughts**: Javascript is the best language I ever used. I can do so much things and with high performance. I'll build a lot of projects to be an expert in web development with JS.
+
+
+### Day 74 July 27, 2020
+
+**Today's Progress**: Today I created a session of password recovery in my project using nodemailer and mailtrap to test. I also learned how to use DELETE CASCADE on postgresql to delete my rows with foreign key on my database.
+
+**Thoughts**: Tomorrow I plan to refactor my code until now. After this I'll continue creating new things.
