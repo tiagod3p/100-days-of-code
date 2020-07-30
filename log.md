@@ -524,3 +524,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I started to write the documentation of the things I've been learning this past weeks. I wrote about node.js, single-thread, event loop, async functions, middlewares, etc. I plan to write a lot more about node, express, js and everything else to improve my knowledge retention. I also did some hackerrank exercises to keep practicing my logic.
 
 **Thoughts**: When you start to study deeply nodejs you realize that YOU DON'T KNOW NOTHING. HAHAHAHAHA. That is the true, I was doing my projects and thinking I know too much, but the true is that I dont know nothing yet, and it's wonderful, I think it's incredible that I have to much more things to learn, study and share. This is what I love most in programming, you never stop to learn.
+
+
+### Day 76 July 29, 2020
+
+**Today's Progress**: Today I kept documenting my learnings of these past days and did some hackerrank exercises in javascript, mostly using map and reduce.
+
+**Thoughts**: I didn't study much today but I pretend to study more in the next days and more focused in keep doing my project.
