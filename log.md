@@ -531,3 +531,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I kept documenting my learnings of these past days and did some hackerrank exercises in javascript, mostly using map and reduce.
 
 **Thoughts**: I didn't study much today but I pretend to study more in the next days and more focused in keep doing my project.
+
+
+### Day 77 July 30, 2020
+
+**Today's Progress**: Today I started to refactor the code of my project. I learned about MVC and how to structure my business rules. I also improved my models to be more clean code. I also started to look for an way to seed fake accounts and fake products in my website to be more easy to edit.
+
+**Thoughts**: Learning design patterns like MVC is useful to get a better code and improve my productivity. I'm happy to get better every single day! 
