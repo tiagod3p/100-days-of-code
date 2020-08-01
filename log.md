@@ -538,3 +538,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I started to refactor the code of my project. I learned about MVC and how to structure my business rules. I also improved my models to be more clean code. I also started to look for an way to seed fake accounts and fake products in my website to be more easy to edit.
 
 **Thoughts**: Learning design patterns like MVC is useful to get a better code and improve my productivity. I'm happy to get better every single day! 
+
+
+### Day 78 July 31, 2020
+
+**Today's Progress**: Today I kept refactoring the code of my project. I also implemented a view page for products of each specific user. Tomorrow I'll try to implement a payment system and a shopping cart.
+
+**Thoughts**: I was invited to do pair programming tomorrow with a friend. I imagine that it will be very good to me see other hands and other way of thinking.
