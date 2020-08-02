@@ -545,3 +545,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I kept refactoring the code of my project. I also implemented a view page for products of each specific user. Tomorrow I'll try to implement a payment system and a shopping cart.
 
 **Thoughts**: I was invited to do pair programming tomorrow with a friend. I imagine that it will be very good to me see other hands and other way of thinking.
+
+
+### Day 79 August 01, 2020
+
+**Today's Progress**: Today I implemented a lot of validations in my register system to prevent fake accounts. I created a shopping cart and implemented an algorithm very cool, I'm very happy with my evolution. I also learned about implement a payment system, I'll implement it as soon as possible.
+
+**Thoughts**: The fact is that consistency is everything. I'm studying every single day and I'm seeing my evolution everyday. I'll never give up. That is the secret. Remember it when I win.
