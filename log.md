@@ -559,3 +559,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Yesterday I took the day off because today I'm starting the Rocketseat Next Level Week of immersion in the Javascript stack. By today I started the application that we are building in the nlw. I coded in react for the first time!!! It's really awesome.
 
 **Thoughts**: I'll be very focused these next days to retain the maximum of knowledge possible of this immersion on javascript stack. I intend to get better on node, react and all technologies around the js stack.
+
+
+### Day 81 August 04, 2020
+
+**Today's Progress**: Today I kept doing my project and learned how to use node to create rest api's. I also learned how to use imsonia to makes more easier create my requests. Tomorrow I'll create more routes to improve my website.
+
+**Thoughts**: Tomorrow I intend to learn more deeply about rest and restful APIs, maybe do some research, read the documentation and write my thoughts in notion.so.
