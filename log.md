@@ -566,3 +566,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I kept doing my project and learned how to use node to create rest api's. I also learned how to use imsonia to makes more easier create my requests. Tomorrow I'll create more routes to improve my website.
 
 **Thoughts**: Tomorrow I intend to learn more deeply about rest and restful APIs, maybe do some research, read the documentation and write my thoughts in notion.so.
+
+
+### Day 82 August 05, 2020
+
+**Today's Progress**: Today I learned about states on React.js, I also learned how to consume an api using axios on react. It's been really great days of study this week.
+
+**Thoughts**: I think that react.js has so much things to learn that I will be focused in learning well node and after I focus more on learn react.
