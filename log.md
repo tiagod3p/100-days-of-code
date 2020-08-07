@@ -573,3 +573,9 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I learned about states on React.js, I also learned how to consume an api using axios on react. It's been really great days of study this week.
 
 **Thoughts**: I think that react.js has so much things to learn that I will be focused in learning well node and after I focus more on learn react.
+
+### Day 83 August 06, 2020
+
+**Today's Progress**: Today I started with a friend a LinkedIn homepage clone to improve our abilities with frontend development. Pair programming is very cool, I learn so much doing this.
+
+**Thoughts**: I wanna learn more about css, has so much things that I don't know yet.
