@@ -574,8 +574,15 @@ functionality who gives the weather forecast of any city.
 
 **Thoughts**: I think that react.js has so much things to learn that I will be focused in learning well node and after I focus more on learn react.
 
+
 ### Day 83 August 06, 2020
 
 **Today's Progress**: Today I started with a friend a LinkedIn homepage clone to improve our abilities with frontend development. Pair programming is very cool, I learn so much doing this.
 
 **Thoughts**: I wanna learn more about css, has so much things that I don't know yet.
+
+### Day 84 August 07, 2020
+
+**Today's Progress**: Today i did some hackerrank exercises on javascript, write a lot about what i'm learning these days and improved my resume.
+
+**Thoughts**: I'm inspiring in one guy of twitter. He is really amazing, he gave my several tips to improve myself and I learn alot with him. I like to think him as a mentor, I'll get the maximum of knowledge of him for me. 
