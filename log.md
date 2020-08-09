@@ -586,3 +586,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today i did some hackerrank exercises on javascript, write a lot about what i'm learning these days and improved my resume.
 
 **Thoughts**: I'm inspiring in one guy of twitter. He is really amazing, he gave my several tips to improve myself and I learn alot with him. I like to think him as a mentor, I'll get the maximum of knowledge of him for me. 
+
+
+### Day 85 August 08, 2020
+
+**Today's Progress**: Today I finished my project of ecommerce, I implemented a section to see orders and sells. Now I'm happy with my result doing this website! Tomorrow I plan to start build other  project.
+
+**Thoughts**: I'm very better with node.js now. This project taught me alot about CRUD, about MVC, about best practices to DRY.
