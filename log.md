@@ -593,3 +593,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I finished my project of ecommerce, I implemented a section to see orders and sells. Now I'm happy with my result doing this website! Tomorrow I plan to start build other  project.
 
 **Thoughts**: I'm very better with node.js now. This project taught me alot about CRUD, about MVC, about best practices to DRY.
+
+
+### Day 86 August 09, 2020
+
+**Today's Progress**: Today I learned some concepts of javascript and some algorithms. I learned about bind, call and apply, learned about closures and hoisting, I also learned when to use map or foreach. 
+
+**Thoughts**: These kinds of concepts help me to understand better my code and to improve it. Learn about these concepts also help me to choose the best algorithm to solve a problem.
