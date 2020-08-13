@@ -600,3 +600,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: Today I learned some concepts of javascript and some algorithms. I learned about bind, call and apply, learned about closures and hoisting, I also learned when to use map or foreach. 
 
 **Thoughts**: These kinds of concepts help me to understand better my code and to improve it. Learn about these concepts also help me to choose the best algorithm to solve a problem.
+
+
+### Day 87 August 12, 2020
+
+**Today's Progress**: I started to build an new api with node.js. In this project I intend to learn about solid principles, clean architecture, typescript and tdd. I started with tdd and typescript to create a Sign Up Controller for my api.
+
+**Thoughts**: Typescript is very cool. I have to learn so much to get the knowledge of this. TDD is also very difficult but I hope I'll do it, I'm improving my self every day to be a good Software Engineer and I'll be the best!
