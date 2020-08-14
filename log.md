@@ -607,3 +607,10 @@ functionality who gives the weather forecast of any city.
 **Today's Progress**: I started to build an new api with node.js. In this project I intend to learn about solid principles, clean architecture, typescript and tdd. I started with tdd and typescript to create a Sign Up Controller for my api.
 
 **Thoughts**: Typescript is very cool. I have to learn so much to get the knowledge of this. TDD is also very difficult but I hope I'll do it, I'm improving my self every day to be a good Software Engineer and I'll be the best!
+
+
+### Day 88 August 13, 2020
+
+**Today's Progress**: Today I started a technical test as a part of an interview process for a company I wanna in. Let's see what happens in the next few days. I'm doing the test using node and api restful concepts.
+
+**Thoughts**: I really wanna do this test and makes it the best. I hope I can do it.
